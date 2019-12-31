@@ -7,8 +7,9 @@ Flutter面试题和答案收集，各种知识点的深入研究，学完之后�
 * ### [Flutter每日一面（面试题二）](https://github.com/ahyangnb/flutter_interview/issues/2)
 > Flutter绘制流程，Widget 和 element 和 RenderObject 之间的关系，特殊方法的执行顺序，Future和Isolate区别，Stream订阅模式，await for的使用，Widget、State、Context 的核心概念，key和Navigator。
 * ### [Flutter每日一面（面试题三）](https://github.com/ahyangnb/flutter_interview/issues/3)
+> Dart 语言的特性，Dart 语言重要概念，mixin extends implement 之间关系，mixins的条件，mixin 指定异常类型。
 * ### [Flutter每日一面（面试题四）](https://github.com/ahyangnb/flutter_interview/issues/4)
-
+> Flutter优缺点以及理念架构，Flutter的FrameWork层和Engine层。
 
 
 # Flutter微信群
