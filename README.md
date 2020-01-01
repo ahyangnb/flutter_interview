@@ -24,7 +24,3 @@ Flutter交流QQ群：[874592746](https://jq.qq.com/?_wv=1027&k=5coTYqE)
 <img src="http://www.flutterj.com/public.jpg" height="200" width="200" style="zoom:30%;" />
 
 关注公众号“`Flutter前线`”，各种Flutter项目实战经验技巧，干活知识，Flutter面试题答案，等你来领取。
-
-# 贡献者
-
-<img src="http://www.flutterj.com/circle-cropped.png" height="150" width="150" style="zoom:30%;" />
