@@ -1,4 +1,4 @@
-# welcome to CrazyQ1 Page
+# CrazyQ1 Page
 
 ## Getting Super Powers
 

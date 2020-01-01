@@ -1,5 +1,6 @@
 # Table of contents
 
 * [README](README.md)
-* [welcome to CrazyQ1 Page](welcome-to-crazyq1-page.md)
+* [CrazyQ1 Page](welcome-to-crazyq1-page.md)
+* [api test](api-test.md)
 
