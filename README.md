@@ -27,7 +27,9 @@ Flutter面试题和答案收集，各种知识点的深入研究，学完之后�
 
 ## Flutter微信群
 
-![](http://www.flutterj.com/content/uploadfile/201903/64821551854137.png)
+<img src="img/left_group.png" height="200" width="210" style="zoom:30%;" />
+
+[上图无法显示点我](http://www.flutterj.com/left_group.png)
 
 Flutter教程网：www.flutterj.com
 
