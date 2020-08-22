@@ -9,7 +9,7 @@ Flutter面试题和答案收集，各种知识点的深入研究，学完之后�
 
 ## 目录
 
-* \*\*\*\*[**Flutter每日一面（面试题一）**](https://github.com/ahyangnb/flutter_interview/issues/1)\*\*\*\*
+* [**Flutter每日一面（面试题一）**](https://github.com/ahyangnb/flutter_interview/issues/1)
 
   > 屏幕适配，isolate通信和原理，热重载原理和过程，Flutter性能，跨平台区别，组件渲染。
 
